@@ -245,15 +245,13 @@ html[lang="zh-Hant"] .blog-post * {
 
 /* 数学公式 - 保留数学字体 */
 [class*="math"]:not([class*="math-"]),
-[class*="latex"]:not([class*="latex-"]),
-[class*="tex"]:not([class*="tex-"]) {
+[class*="latex"]:not([class*="latex-"]) {
     font-family: "KaTeX_Math", "Cambria Math", "Latin Modern Math", serif !important;
 }
 
 /* 数学公式容器 - 保持原有字体 */
 [class*="math-"] [class*="math"],
-[class*="latex-"] [class*="latex"],
-[class*="tex-"] [class*="tex"] {
+[class*="latex-"] [class*="latex"] {
     font-family: inherit !important;
 }
 
