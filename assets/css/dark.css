@@ -276,7 +276,7 @@ html[lang="zh-Hant"] .blog-post * {
     /* 确保覆盖 */
     box-sizing: border-box;
     font-family: inherit;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 /* 标题样式 */
@@ -284,7 +284,7 @@ html[lang="zh-Hant"] .blog-post * {
 .alert b {
     display: block;
     margin-bottom: 8px;
-    font-size: 18px;
+    font-size: 24px;
     font-weight: bold;
     color: #ffffff;
 }
