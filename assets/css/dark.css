@@ -157,7 +157,7 @@ html[lang="zh-Hant"] * {
     font-family: var(--sans-jp-font-family);
 }
 
-/* 代码块 - 使用 !important 确保覆盖 */
+/* 代码块 - 使用!important确保覆盖 */
 pre, code, tt, kbd, samp,
 .monospace, .code, .highlight, .listing,
 pre *, code *, tt *, kbd *, samp *,
@@ -289,56 +289,56 @@ html[lang="zh-Hant"] .blog-post * {
 
 /* 信息框 */
 .alert-info,
-.alert.alert-info {
+.alert.info {
     border-left-color: #2196F3;
     background: #1a1f29;
 }
 
 .alert-info strong,
 .alert-info b,
-.alert.alert-info strong,
-.alert.alert-info b {
+.alert.info strong,
+.alert.info b {
     color: #64b5f6;
 }
 
 /* 成功框 */
 .alert-success,
-.alert.alert-success {
+.alert.success {
     border-left-color: #4CAF50;
     background: #1a291a;
 }
 
 .alert-success strong,
 .alert-success b,
-.alert.alert-success strong,
-.alert.alert-success b {
+.alert.success strong,
+.alert.success b {
     color: #81c784;
 }
 
 /* 警告框 */
 .alert-warning,
-.alert.alert-warning {
+.alert.warning {
     border-left-color: #FF9800;
     background: #29251a;
 }
 
 .alert-warning strong,
 .alert-warning b,
-.alert.alert-warning strong,
-.alert.alert-warning b {
+.alert.warning strong,
+.alert.warning b {
     color: #ffb74d;
 }
 
 /* 错误框 */
 .alert-danger,
-.alert.alert-danger {
+.alert.danger {
     border-left-color: #F44336;
     background: #291a1a;
 }
 
 .alert-danger strong,
 .alert-danger b,
-.alert.alert-danger strong,
-.alert.alert-danger b {
+.alert.danger strong,
+.alert.danger b {
     color: #e57373;
 }

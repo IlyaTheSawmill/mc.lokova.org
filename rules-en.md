@@ -16,7 +16,7 @@ layout: default
 1\. **Actions that affect server stability or other players' normal gameplay are prohibited**<br>
 Including but not limited to: intentionally creating server anomalies, causing players to be unable to connect or play normally, building server crash machines and/or chunk corruption ban devices, etc.
 
-<div class="alert alert-danger">
+<div class="alert danger">
 Penalty Method: Forced removal of violating devices and, depending on the circumstances, a ban (ranging from 3 days to permanent)
 
 </div>
@@ -25,7 +25,7 @@ Penalty Method: Forced removal of violating devices and, depending on the circum
 This includes, but is not limited to, promoting or guiding players to other servers in any form, such as public chat, private chat, signs, books, etc. (except for official collaborations).<br>
 This rule aims to ensure the purity of the server's philosophy and prevent contamination by servers incompatible with our principles.
 
-<div class="alert alert-danger">
+<div class="alert danger">
 Penalty Method: First offense: Warning and a 3-day ban from sending messages in the chat; second offense: Permanent ban
 
 </div>
