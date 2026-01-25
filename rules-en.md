@@ -14,7 +14,7 @@ layout: default
 ## Rules Text
 
 1\. **Actions that affect server stability or other players' normal gameplay are prohibited**<br>
-Including but not limited to: intentionally creating server anomalies, causing players to be unable to connect or play normally, building server crash machines and/or chunk corruption ban devices, etc.
+Including but not limited to: building server crash machines and/or chunk corruption ban devices, etc.
 
 <div class="alert danger">
 Penalty Method: Forced removal of violating devices and, depending on the circumstances, a ban (ranging from 3 days to permanent)
