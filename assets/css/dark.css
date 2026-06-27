@@ -9,8 +9,8 @@
     --sans-jp-font-family: "Noto Sans", "Noto Sans JP", "Noto Sans SC", sans-serif;
     --serif-font-family: "Liberation Serif", "Noto Serif SC", serif;
     --serif-jp-font-family: "Liberation Serif", "Noto Serif JP", "Noto Serif SC", serif;
-    --monospace-font-family: "Courier New", "Unifont", monospace;
-    --monospace-jp-font-family: "Courier New", "Unifont-JP", monospace;
+    --monospace-font-family: "Noto Sans Mono", monospace;
+    --monospace-jp-font-family: "Noto Sans Mono", monospace;
 }
 
 html, body {
@@ -21,6 +21,7 @@ html, body {
   margin: 0;
   padding: 0;
   font-size: 20px;
+  /*white-space: pre-wrap;*/
 }
 
 a {
@@ -56,7 +57,6 @@ blockquote {
 pre, code {
   background: var(--code-bg);
   color: #f0f6fc;
-  border-radius: 6px;
   font-family: var(--monospace-font-family);
 }
 pre { padding: 0.7em 1em; overflow-x: auto; }
@@ -66,7 +66,6 @@ button, .btn {
   background: var(--accent-color);
   color: #fff;
   border: none;
-  border-radius: 6px;
   padding: 0.5em 1em;
   cursor: pointer;
   transition: background 0.2s ease;
@@ -92,7 +91,6 @@ input, textarea, select {
   background: var(--code-bg);
   color: var(--fg-color);
   border: 1px solid var(--border-color);
-  border-radius: 4px;
   padding: 0.4em 0.6em;
 }
 input:focus, textarea:focus, select:focus {
@@ -262,7 +260,6 @@ html[lang="zh-Hant"] .blog-post * {
     padding: 16px 20px;
     margin: 18px 0;
     border-left: 5px solid;
-    border-radius: 8px;
     
     /* 深色主题 */
     background: #1e1e1e;
